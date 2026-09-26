@@ -1,7 +1,6 @@
 aid: arbor-energy
 name: Arbor Energy
-description: 'Arbor Energy is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+description: 'Arbor Energy is a clean‑power startup that designs and builds modular, carbon‑negative baseload energy systems for industrial and grid‑scale applications. Founded by former SpaceX and GE engineers, the company delivers high‑performance turbines and energy‑as‑a‑service solutions to data‑center operators and other large energy users, aiming to provide reliable, zero‑emission power at scale.'
 url: https://raw.githubusercontent.com/api-evangelist/arbor-energy/refs/heads/main/apis.yml
 x-type: company
 x-source: harvest:secondary-market
@@ -12,6 +11,10 @@ created: '2026-09-25'
 modified: '2026-09-25'
 tags:
 - Company
+- Clean Energy
+- Renewable
+- Power Systems
+- Modular Turbines
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -20,4 +23,4 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://www.nasdaqprivatemarket.com/
+  url: https://arbor.co/
